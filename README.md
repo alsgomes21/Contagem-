@@ -1,1 +1,3 @@
 # Contagem-
+Aplicação com utilização do Swing onde é feito uma contagem de uma determinada sequência com utilização do while, mas com pulos dentro da sequência com o comando continue, e com o break, onde interrompemos a sequência para fora do laço de fluxo. Por fim usamos o botão para mostrar a sequência determinada na label.
+Application using Swing where a count of a given sequence is made using while, but with jumps within the sequence with the continue command, and with break, where we interrupt the sequence out of the flow loop. Finally, we use the button to show the sequence determined in the label.
